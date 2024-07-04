@@ -1,6 +1,6 @@
 # BookBazaar-frontend
 
-BookBazaar is an e-commerce website project build with Spring Boot backend and React frontend. The backend communicates with the Google Books API to fetch book information, while the frontend provides user and admin interfaces. This is the fronted react application. Backend link is provided [here](https://github.com/Jawahirullah481/BookBazaar-Backend).
+BookBazaar is an e-commerce website project build with Spring Boot backend and React frontend. The backend communicates with the Google Books API to fetch book information, while the frontend provides user and admin interfaces. This is the fronted react application.
 
 ## Table of Contents
 
